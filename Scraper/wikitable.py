@@ -395,22 +395,21 @@ class WikiTable:
                 # Save off any colspans and rowspans for future cells
                 self._save_row_col_span(row_idx, col_idx, td_soup, row_col_spans)
 
-                # Check for previous colspans 
-                repeat_cells = self._load_row_col_span(row_idx, col_idx, row_col_spans)
-                to_yield += repeat_cells
-                if not td_soup.has_attr('colspan') and not td_soup.has_attr('rowspan'):
-                    col_off += len(repeat_cells)
-
-                # Add to links
-                linked_data = linked_data + self._handle_links(row_idx, col_idx, td_soup, options)
-
                 # Add cell to yielding array if not already added
                 covered = row_col_spans.keys()
                 if not (row_idx, col_idx) in covered:
                     cell_str = self.get_clean_text_from_soup(td_soup)
                     to_yield.append(cell_str)
 
-            options['_max_linked_'] = max(len(linked_data), options.get('_max_linked_', 0))
+                # Check for previous colspans 
+                repeat_cells = self._load_row_col_span(row_idx, col_idx, row_col_spans)
+                to_yield += repeat_cells
+                if (not td_soup.has_attr('colspan')) and (not td_soup.has_attr('rowspan')):
+                    col_off += len(repeat_cells)
+
+                # Add to links
+                linked_data = linked_data + self._handle_links(row_idx, col_idx, td_soup, options)
+            
             yield to_yield + linked_data
 
     def _generate_extracted_body(self, body_generator, options):
