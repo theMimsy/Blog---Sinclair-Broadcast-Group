@@ -1,0 +1,1472 @@
+{
+  "500": {
+    "% of US": "0.335",
+    "DMA Code": "500",
+    "Designated Market Area (DMA)": "Portland-Auburn",
+    "Rank": "81",
+    "TV Homes": "383,700"
+  },
+  "501": {
+    "% of US": "6.407",
+    "DMA Code": "501",
+    "Designated Market Area (DMA)": "New York",
+    "Rank": "1",
+    "TV Homes": "7,348,620"
+  },
+  "502": {
+    "% of US": "0.111",
+    "DMA Code": "502",
+    "Designated Market Area (DMA)": "Binghamton",
+    "Rank": "160",
+    "TV Homes": "127,070"
+  },
+  "503": {
+    "% of US": "0.203",
+    "DMA Code": "503",
+    "Designated Market Area (DMA)": "Macon",
+    "Rank": "121",
+    "TV Homes": "232,910"
+  },
+  "504": {
+    "% of US": "2.566",
+    "DMA Code": "504",
+    "Designated Market Area (DMA)": "Philadelphia",
+    "Rank": "4",
+    "TV Homes": "2,942,800"
+  },
+  "505": {
+    "% of US": "1.616",
+    "DMA Code": "505",
+    "Designated Market Area (DMA)": "Detroit",
+    "Rank": "13",
+    "TV Homes": "1,853,030"
+  },
+  "506": {
+    "% of US": "2.114",
+    "DMA Code": "506",
+    "Designated Market Area (DMA)": "Boston (Manchester)",
+    "Rank": "9",
+    "TV Homes": "2,424,240"
+  },
+  "507": {
+    "% of US": "0.296",
+    "DMA Code": "507",
+    "Designated Market Area (DMA)": "Savannah",
+    "Rank": "91",
+    "TV Homes": "340,050"
+  },
+  "508": {
+    "% of US": "1.012",
+    "DMA Code": "508",
+    "Designated Market Area (DMA)": "Pittsburgh",
+    "Rank": "23",
+    "TV Homes": "1,160,220"
+  },
+  "509": {
+    "% of US": "0.229",
+    "DMA Code": "509",
+    "Designated Market Area (DMA)": "Ft. Wayne",
+    "Rank": "110",
+    "TV Homes": "262,990"
+  },
+  "510": {
+    "% of US": "1.307",
+    "DMA Code": "510",
+    "Designated Market Area (DMA)": "Cleveland-Akron (Canton)",
+    "Rank": "19",
+    "TV Homes": "1,498,960"
+  },
+  "511": {
+    "% of US": "2.159",
+    "DMA Code": "511",
+    "Designated Market Area (DMA)": "Washington, DC (Hagrstwn)",
+    "Rank": "7",
+    "TV Homes": "2,476,680"
+  },
+  "512": {
+    "% of US": "0.976",
+    "DMA Code": "512",
+    "Designated Market Area (DMA)": "Baltimore",
+    "Rank": "26",
+    "TV Homes": "1,119,480"
+  },
+  "513": {
+    "% of US": "0.369",
+    "DMA Code": "513",
+    "Designated Market Area (DMA)": "Flint-Saginaw-Bay City",
+    "Rank": "72",
+    "TV Homes": "423,010"
+  },
+  "514": {
+    "% of US": "0.520",
+    "DMA Code": "514",
+    "Designated Market Area (DMA)": "Buffalo",
+    "Rank": "53",
+    "TV Homes": "596,710"
+  },
+  "515": {
+    "% of US": "0.753",
+    "DMA Code": "515",
+    "Designated Market Area (DMA)": "Cincinnati",
+    "Rank": "36",
+    "TV Homes": "863,800"
+  },
+  "516": {
+    "% of US": "0.130",
+    "DMA Code": "516",
+    "Designated Market Area (DMA)": "Erie",
+    "Rank": "150",
+    "TV Homes": "148,880"
+  },
+  "517": {
+    "% of US": "1.038",
+    "DMA Code": "517",
+    "Designated Market Area (DMA)": "Charlotte",
+    "Rank": "22",
+    "TV Homes": "1,189,950"
+  },
+  "518": {
+    "% of US": "0.602",
+    "DMA Code": "518",
+    "Designated Market Area (DMA)": "Greensboro-H.Point-W.Salem",
+    "Rank": "46",
+    "TV Homes": "690,050"
+  },
+  "519": {
+    "% of US": "0.285",
+    "DMA Code": "519",
+    "Designated Market Area (DMA)": "Charleston, SC",
+    "Rank": "94",
+    "TV Homes": "327,040"
+  },
+  "520": {
+    "% of US": "0.227",
+    "DMA Code": "520",
+    "Designated Market Area (DMA)": "Augusta-Aiken",
+    "Rank": "111",
+    "TV Homes": "260,840"
+  },
+  "521": {
+    "% of US": "0.537",
+    "DMA Code": "521",
+    "Designated Market Area (DMA)": "Providence-New Bedford",
+    "Rank": "52",
+    "TV Homes": "616,280"
+  },
+  "522": {
+    "% of US": "0.190",
+    "DMA Code": "522",
+    "Designated Market Area (DMA)": "Columbus, GA (Opelika, AL)",
+    "Rank": "127",
+    "TV Homes": "217,660"
+  },
+  "523": {
+    "% of US": "0.268",
+    "DMA Code": "523",
+    "Designated Market Area (DMA)": "Burlington-Plattsburgh",
+    "Rank": "97",
+    "TV Homes": "307,470"
+  },
+  "524": {
+    "% of US": "2.104",
+    "DMA Code": "524",
+    "Designated Market Area (DMA)": "Atlanta",
+    "Rank": "10",
+    "TV Homes": "2,412,730"
+  },
+  "525": {
+    "% of US": "0.125",
+    "DMA Code": "525",
+    "Designated Market Area (DMA)": "Albany, GA",
+    "Rank": "152",
+    "TV Homes": "142,800"
+  },
+  "526": {
+    "% of US": "0.086",
+    "DMA Code": "526",
+    "Designated Market Area (DMA)": "Utica",
+    "Rank": "171",
+    "TV Homes": "99,190"
+  },
+  "527": {
+    "% of US": "0.947",
+    "DMA Code": "527",
+    "Designated Market Area (DMA)": "Indianapolis",
+    "Rank": "27",
+    "TV Homes": "1,086,310"
+  },
+  "528": {
+    "% of US": "1.479",
+    "DMA Code": "528",
+    "Designated Market Area (DMA)": "Miami-Ft. Lauderdale",
+    "Rank": "16",
+    "TV Homes": "1,696,330"
+  },
+  "529": {
+    "% of US": "0.577",
+    "DMA Code": "529",
+    "Designated Market Area (DMA)": "Louisville",
+    "Rank": "49",
+    "TV Homes": "662,170"
+  },
+  "530": {
+    "% of US": "0.234",
+    "DMA Code": "530",
+    "Designated Market Area (DMA)": "Tallahassee-Thomasville",
+    "Rank": "107",
+    "TV Homes": "268,390"
+  },
+  "531": {
+    "% of US": "0.267",
+    "DMA Code": "531",
+    "Designated Market Area (DMA)": "Tri-Cities, TN-VA",
+    "Rank": "98",
+    "TV Homes": "306,770"
+  },
+  "532": {
+    "% of US": "0.461",
+    "DMA Code": "532",
+    "Designated Market Area (DMA)": "Albany-Schenectady-Troy",
+    "Rank": "59",
+    "TV Homes": "529,120"
+  },
+  "533": {
+    "% of US": "0.840",
+    "DMA Code": "533",
+    "Designated Market Area (DMA)": "Hartford & New Haven",
+    "Rank": "30",
+    "TV Homes": "963,950"
+  },
+  "534": {
+    "% of US": "1.325",
+    "DMA Code": "534",
+    "Designated Market Area (DMA)": "Orlando-Daytona Bch-Melbrn",
+    "Rank": "18",
+    "TV Homes": "1,519,570"
+  },
+  "535": {
+    "% of US": "0.803",
+    "DMA Code": "535",
+    "Designated Market Area (DMA)": "Columbus, OH",
+    "Rank": "32",
+    "TV Homes": "920,740"
+  },
+  "536": {
+    "% of US": "0.217",
+    "DMA Code": "536",
+    "Designated Market Area (DMA)": "Youngstown",
+    "Rank": "115",
+    "TV Homes": "249,230"
+  },
+  "537": {
+    "% of US": "0.116",
+    "DMA Code": "537",
+    "Designated Market Area (DMA)": "Bangor",
+    "Rank": "156",
+    "TV Homes": "133,310"
+  },
+  "538": {
+    "% of US": "0.352",
+    "DMA Code": "538",
+    "Designated Market Area (DMA)": "Rochester, NY",
+    "Rank": "76",
+    "TV Homes": "404,170"
+  },
+  "539": {
+    "% of US": "1.664",
+    "DMA Code": "539",
+    "Designated Market Area (DMA)": "Tampa-St. Pete (Sarasota)",
+    "Rank": "11",
+    "TV Homes": "1,908,590"
+  },
+  "540": {
+    "% of US": "0.205",
+    "DMA Code": "540",
+    "Designated Market Area (DMA)": "Traverse City-Cadillac",
+    "Rank": "119",
+    "TV Homes": "235,400"
+  },
+  "541": {
+    "% of US": "0.418",
+    "DMA Code": "541",
+    "Designated Market Area (DMA)": "Lexington",
+    "Rank": "63",
+    "TV Homes": "479,420"
+  },
+  "542": {
+    "% of US": "0.406",
+    "DMA Code": "542",
+    "Designated Market Area (DMA)": "Dayton",
+    "Rank": "64",
+    "TV Homes": "466,040"
+  },
+  "543": {
+    "% of US": "0.217",
+    "DMA Code": "543",
+    "Designated Market Area (DMA)": "Springfield-Holyoke",
+    "Rank": "114",
+    "TV Homes": "249,430"
+  },
+  "544": {
+    "% of US": "0.625",
+    "DMA Code": "544",
+    "Designated Market Area (DMA)": "Norfolk-Portsmth-Newpt Nws",
+    "Rank": "42",
+    "TV Homes": "717,170"
+  },
+  "545": {
+    "% of US": "0.263",
+    "DMA Code": "545",
+    "Designated Market Area (DMA)": "Greenville-N.Bern-Washngtn",
+    "Rank": "100",
+    "TV Homes": "301,990"
+  },
+  "546": {
+    "% of US": "0.349",
+    "DMA Code": "546",
+    "Designated Market Area (DMA)": "Columbia, SC",
+    "Rank": "77",
+    "TV Homes": "400,790"
+  },
+  "547": {
+    "% of US": "0.349",
+    "DMA Code": "547",
+    "Designated Market Area (DMA)": "Toledo",
+    "Rank": "78",
+    "TV Homes": "400,170"
+  },
+  "548": {
+    "% of US": "0.719",
+    "DMA Code": "548",
+    "Designated Market Area (DMA)": "West Palm Beach-Ft. Pierce",
+    "Rank": "38",
+    "TV Homes": "824,920"
+  },
+  "549": {
+    "% of US": "0.077",
+    "DMA Code": "549",
+    "Designated Market Area (DMA)": "Watertown",
+    "Rank": "178",
+    "TV Homes": "88,070"
+  },
+  "550": {
+    "% of US": "0.172",
+    "DMA Code": "550",
+    "Designated Market Area (DMA)": "Wilmington",
+    "Rank": "130",
+    "TV Homes": "197,700"
+  },
+  "551": {
+    "% of US": "0.219",
+    "DMA Code": "551",
+    "Designated Market Area (DMA)": "Lansing",
+    "Rank": "113",
+    "TV Homes": "250,670"
+  },
+  "552": {
+    "% of US": "0.023",
+    "DMA Code": "552",
+    "Designated Market Area (DMA)": "Presque Isle",
+    "Rank": "206",
+    "TV Homes": "26,880"
+  },
+  "553": {
+    "% of US": "0.072",
+    "DMA Code": "553",
+    "Designated Market Area (DMA)": "Marquette",
+    "Rank": "180",
+    "TV Homes": "82,740"
+  },
+  "554": {
+    "% of US": "0.112",
+    "DMA Code": "554",
+    "Designated Market Area (DMA)": "Wheeling-Steubenville",
+    "Rank": "158",
+    "TV Homes": "128,720"
+  },
+  "555": {
+    "% of US": "0.322",
+    "DMA Code": "555",
+    "Designated Market Area (DMA)": "Syracuse",
+    "Rank": "85",
+    "TV Homes": "368,950"
+  },
+  "556": {
+    "% of US": "0.492",
+    "DMA Code": "556",
+    "Designated Market Area (DMA)": "Richmond-Petersburg",
+    "Rank": "55",
+    "TV Homes": "564,510"
+  },
+  "557": {
+    "% of US": "0.449",
+    "DMA Code": "557",
+    "Designated Market Area (DMA)": "Knoxville",
+    "Rank": "62",
+    "TV Homes": "514,610"
+  },
+  "558": {
+    "% of US": "0.058",
+    "DMA Code": "558",
+    "Designated Market Area (DMA)": "Lima",
+    "Rank": "189",
+    "TV Homes": "66,570"
+  },
+  "559": {
+    "% of US": "0.111",
+    "DMA Code": "559",
+    "Designated Market Area (DMA)": "Bluefield-Beckley-Oak Hill",
+    "Rank": "159",
+    "TV Homes": "127,090"
+  },
+  "560": {
+    "% of US": "1.006",
+    "DMA Code": "560",
+    "Designated Market Area (DMA)": "Raleigh-Durham (Fayetvlle)",
+    "Rank": "24",
+    "TV Homes": "1,153,580"
+  },
+  "561": {
+    "% of US": "0.600",
+    "DMA Code": "561",
+    "Designated Market Area (DMA)": "Jacksonville",
+    "Rank": "47",
+    "TV Homes": "688,500"
+  },
+  "563": {
+    "% of US": "0.619",
+    "DMA Code": "563",
+    "Designated Market Area (DMA)": "Grand Rapids-Kalmzoo-B.Crk",
+    "Rank": "44",
+    "TV Homes": "709,670"
+  },
+  "564": {
+    "% of US": "0.376",
+    "DMA Code": "564",
+    "Designated Market Area (DMA)": "Charleston-Huntington",
+    "Rank": "70",
+    "TV Homes": "431,150"
+  },
+  "565": {
+    "% of US": "0.079",
+    "DMA Code": "565",
+    "Designated Market Area (DMA)": "Elmira (Corning)",
+    "Rank": "175",
+    "TV Homes": "90,550"
+  },
+  "566": {
+    "% of US": "0.624",
+    "DMA Code": "566",
+    "Designated Market Area (DMA)": "Harrisburg-Lncstr-Leb-York",
+    "Rank": "43",
+    "TV Homes": "715,110"
+  },
+  "567": {
+    "% of US": "0.738",
+    "DMA Code": "567",
+    "Designated Market Area (DMA)": "Greenvll-Spart-Ashevll-And",
+    "Rank": "37",
+    "TV Homes": "845,990"
+  },
+  "569": {
+    "% of US": "0.078",
+    "DMA Code": "569",
+    "Designated Market Area (DMA)": "Harrisonburg",
+    "Rank": "177",
+    "TV Homes": "89,730"
+  },
+  "570": {
+    "% of US": "0.254",
+    "DMA Code": "570",
+    "Designated Market Area (DMA)": "Myrtle Beach-Florence",
+    "Rank": "102",
+    "TV Homes": "291,680"
+  },
+  "571": {
+    "% of US": "0.452",
+    "DMA Code": "571",
+    "Designated Market Area (DMA)": "Ft. Myers-Naples",
+    "Rank": "61",
+    "TV Homes": "518,730"
+  },
+  "573": {
+    "% of US": "0.383",
+    "DMA Code": "573",
+    "Designated Market Area (DMA)": "Roanoke-Lynchburg",
+    "Rank": "67",
+    "TV Homes": "439,620"
+  },
+  "574": {
+    "% of US": "0.242",
+    "DMA Code": "574",
+    "Designated Market Area (DMA)": "Johnstown-Altoona-St Colge",
+    "Rank": "104",
+    "TV Homes": "277,210"
+  },
+  "575": {
+    "% of US": "0.306",
+    "DMA Code": "575",
+    "Designated Market Area (DMA)": "Chattanooga",
+    "Rank": "89",
+    "TV Homes": "351,220"
+  },
+  "576": {
+    "% of US": "0.141",
+    "DMA Code": "576",
+    "Designated Market Area (DMA)": "Salisbury",
+    "Rank": "144",
+    "TV Homes": "162,050"
+  },
+  "577": {
+    "% of US": "0.484",
+    "DMA Code": "577",
+    "Designated Market Area (DMA)": "Wilkes Barre-Scranton-Hztn",
+    "Rank": "56",
+    "TV Homes": "554,660"
+  },
+  "581": {
+    "% of US": "0.117",
+    "DMA Code": "581",
+    "Designated Market Area (DMA)": "Terre Haute",
+    "Rank": "155",
+    "TV Homes": "133,780"
+  },
+  "582": {
+    "% of US": "0.060",
+    "DMA Code": "582",
+    "Designated Market Area (DMA)": "Lafayette, IN",
+    "Rank": "187",
+    "TV Homes": "69,180"
+  },
+  "583": {
+    "% of US": "0.014",
+    "DMA Code": "583",
+    "Designated Market Area (DMA)": "Alpena",
+    "Rank": "208",
+    "TV Homes": "16,010"
+  },
+  "584": {
+    "% of US": "0.065",
+    "DMA Code": "584",
+    "Designated Market Area (DMA)": "Charlottesville",
+    "Rank": "183",
+    "TV Homes": "74,990"
+  },
+  "588": {
+    "% of US": "0.273",
+    "DMA Code": "588",
+    "Designated Market Area (DMA)": "South Bend-Elkhart",
+    "Rank": "96",
+    "TV Homes": "313,210"
+  },
+  "592": {
+    "% of US": "0.110",
+    "DMA Code": "592",
+    "Designated Market Area (DMA)": "Gainesville",
+    "Rank": "161",
+    "TV Homes": "126,400"
+  },
+  "596": {
+    "% of US": "0.028",
+    "DMA Code": "596",
+    "Designated Market Area (DMA)": "Zanesville",
+    "Rank": "204",
+    "TV Homes": "32,450"
+  },
+  "597": {
+    "% of US": "0.053",
+    "DMA Code": "597",
+    "Designated Market Area (DMA)": "Parkersburg",
+    "Rank": "194",
+    "TV Homes": "60,620"
+  },
+  "598": {
+    "% of US": "0.090",
+    "DMA Code": "598",
+    "Designated Market Area (DMA)": "Clarksburg-Weston",
+    "Rank": "169",
+    "TV Homes": "103,090"
+  },
+  "600": {
+    "% of US": "0.183",
+    "DMA Code": "600",
+    "Designated Market Area (DMA)": "Corpus Christi",
+    "Rank": "128",
+    "TV Homes": "209,760"
+  },
+  "602": {
+    "% of US": "3.019",
+    "DMA Code": "602",
+    "Designated Market Area (DMA)": "Chicago",
+    "Rank": "3",
+    "TV Homes": "3,463,060"
+  },
+  "603": {
+    "% of US": "0.126",
+    "DMA Code": "603",
+    "Designated Market Area (DMA)": "Joplin-Pittsburg",
+    "Rank": "151",
+    "TV Homes": "144,110"
+  },
+  "604": {
+    "% of US": "0.149",
+    "DMA Code": "604",
+    "Designated Market Area (DMA)": "Columbia-Jefferson City",
+    "Rank": "136",
+    "TV Homes": "171,330"
+  },
+  "605": {
+    "% of US": "0.150",
+    "DMA Code": "605",
+    "Designated Market Area (DMA)": "Topeka",
+    "Rank": "135",
+    "TV Homes": "172,470"
+  },
+  "606": {
+    "% of US": "0.085",
+    "DMA Code": "606",
+    "Designated Market Area (DMA)": "Dothan",
+    "Rank": "173",
+    "TV Homes": "97,960"
+  },
+  "609": {
+    "% of US": "1.060",
+    "DMA Code": "609",
+    "Designated Market Area (DMA)": "St. Louis",
+    "Rank": "21",
+    "TV Homes": "1,215,570"
+  },
+  "610": {
+    "% of US": "0.149",
+    "DMA Code": "610",
+    "Designated Market Area (DMA)": "Rockford",
+    "Rank": "138",
+    "TV Homes": "170,480"
+  },
+  "611": {
+    "% of US": "0.124",
+    "DMA Code": "611",
+    "Designated Market Area (DMA)": "Rochestr-Mason City-Austin",
+    "Rank": "153",
+    "TV Homes": "141,920"
+  },
+  "612": {
+    "% of US": "0.324",
+    "DMA Code": "612",
+    "Designated Market Area (DMA)": "Shreveport",
+    "Rank": "82",
+    "TV Homes": "371,760"
+  },
+  "613": {
+    "% of US": "1.519",
+    "DMA Code": "613",
+    "Designated Market Area (DMA)": "Minneapolis-St. Paul",
+    "Rank": "15",
+    "TV Homes": "1,742,530"
+  },
+  "616": {
+    "% of US": "0.801",
+    "DMA Code": "616",
+    "Designated Market Area (DMA)": "Kansas City",
+    "Rank": "33",
+    "TV Homes": "919,020"
+  },
+  "617": {
+    "% of US": "0.781",
+    "DMA Code": "617",
+    "Designated Market Area (DMA)": "Milwaukee",
+    "Rank": "35",
+    "TV Homes": "895,700"
+  },
+  "618": {
+    "% of US": "2.137",
+    "DMA Code": "618",
+    "Designated Market Area (DMA)": "Houston",
+    "Rank": "8",
+    "TV Homes": "2,450,800"
+  },
+  "619": {
+    "% of US": "0.357",
+    "DMA Code": "619",
+    "Designated Market Area (DMA)": "Springfield, MO",
+    "Rank": "75",
+    "TV Homes": "409,020"
+  },
+  "622": {
+    "% of US": "0.559",
+    "DMA Code": "622",
+    "Designated Market Area (DMA)": "New Orleans",
+    "Rank": "50",
+    "TV Homes": "641,620"
+  },
+  "623": {
+    "% of US": "2.366",
+    "DMA Code": "623",
+    "Designated Market Area (DMA)": "Dallas-Ft. Worth",
+    "Rank": "5",
+    "TV Homes": "2,713,380"
+  },
+  "624": {
+    "% of US": "0.131",
+    "DMA Code": "624",
+    "Designated Market Area (DMA)": "Sioux City",
+    "Rank": "149",
+    "TV Homes": "150,790"
+  },
+  "625": {
+    "% of US": "0.312",
+    "DMA Code": "625",
+    "Designated Market Area (DMA)": "Waco-Temple-Bryan",
+    "Rank": "87",
+    "TV Homes": "357,720"
+  },
+  "626": {
+    "% of US": "0.029",
+    "DMA Code": "626",
+    "Designated Market Area (DMA)": "Victoria",
+    "Rank": "203",
+    "TV Homes": "32,930"
+  },
+  "627": {
+    "% of US": "0.133",
+    "DMA Code": "627",
+    "Designated Market Area (DMA)": "Wichita Falls & Lawton",
+    "Rank": "148",
+    "TV Homes": "152,950"
+  },
+  "628": {
+    "% of US": "0.149",
+    "DMA Code": "628",
+    "Designated Market Area (DMA)": "Monroe-El Dorado",
+    "Rank": "137",
+    "TV Homes": "170,890"
+  },
+  "630": {
+    "% of US": "0.607",
+    "DMA Code": "630",
+    "Designated Market Area (DMA)": "Birmingham (Ann and Tusc)",
+    "Rank": "45",
+    "TV Homes": "696,380"
+  },
+  "631": {
+    "% of US": "0.039",
+    "DMA Code": "631",
+    "Designated Market Area (DMA)": "Ottumwa-Kirksville",
+    "Rank": "200",
+    "TV Homes": "44,690"
+  },
+  "632": {
+    "% of US": "0.322",
+    "DMA Code": "632",
+    "Designated Market Area (DMA)": "Paducah-Cape Girard-Harsbg",
+    "Rank": "83",
+    "TV Homes": "369,390"
+  },
+  "633": {
+    "% of US": "0.143",
+    "DMA Code": "633",
+    "Designated Market Area (DMA)": "Odessa-Midland",
+    "Rank": "143",
+    "TV Homes": "163,450"
+  },
+  "634": {
+    "% of US": "0.166",
+    "DMA Code": "634",
+    "Designated Market Area (DMA)": "Amarillo",
+    "Rank": "131",
+    "TV Homes": "190,240"
+  },
+  "635": {
+    "% of US": "0.672",
+    "DMA Code": "635",
+    "Designated Market Area (DMA)": "Austin",
+    "Rank": "39",
+    "TV Homes": "771,210"
+  },
+  "636": {
+    "% of US": "0.322",
+    "DMA Code": "636",
+    "Designated Market Area (DMA)": "Harlingen-Wslco-Brnsvl-McA",
+    "Rank": "84",
+    "TV Homes": "368,960"
+  },
+  "637": {
+    "% of US": "0.299",
+    "DMA Code": "637",
+    "Designated Market Area (DMA)": "Cedar Rapids-Wtrlo-IWC&Dub",
+    "Rank": "90",
+    "TV Homes": "343,000"
+  },
+  "638": {
+    "% of US": "0.039",
+    "DMA Code": "638",
+    "Designated Market Area (DMA)": "St. Joseph",
+    "Rank": "201",
+    "TV Homes": "44,460"
+  },
+  "639": {
+    "% of US": "0.078",
+    "DMA Code": "639",
+    "Designated Market Area (DMA)": "Jackson, TN",
+    "Rank": "176",
+    "TV Homes": "89,970"
+  },
+  "640": {
+    "% of US": "0.553",
+    "DMA Code": "640",
+    "Designated Market Area (DMA)": "Memphis",
+    "Rank": "51",
+    "TV Homes": "633,930"
+  },
+  "641": {
+    "% of US": "0.818",
+    "DMA Code": "641",
+    "Designated Market Area (DMA)": "San Antonio",
+    "Rank": "31",
+    "TV Homes": "938,660"
+  },
+  "642": {
+    "% of US": "0.204",
+    "DMA Code": "642",
+    "Designated Market Area (DMA)": "Lafayette, LA",
+    "Rank": "120",
+    "TV Homes": "233,790"
+  },
+  "643": {
+    "% of US": "0.083",
+    "DMA Code": "643",
+    "Designated Market Area (DMA)": "Lake Charles",
+    "Rank": "174",
+    "TV Homes": "95,740"
+  },
+  "644": {
+    "% of US": "0.075",
+    "DMA Code": "644",
+    "Designated Market Area (DMA)": "Alexandria, LA",
+    "Rank": "179",
+    "TV Homes": "85,560"
+  },
+  "647": {
+    "% of US": "0.055",
+    "DMA Code": "647",
+    "Designated Market Area (DMA)": "Greenwood-Greenville",
+    "Rank": "193",
+    "TV Homes": "62,690"
+  },
+  "648": {
+    "% of US": "0.317",
+    "DMA Code": "648",
+    "Designated Market Area (DMA)": "Champaign&Sprngfld-Decatur",
+    "Rank": "86",
+    "TV Homes": "364,050"
+  },
+  "649": {
+    "% of US": "0.244",
+    "DMA Code": "649",
+    "Designated Market Area (DMA)": "Evansville",
+    "Rank": "103",
+    "TV Homes": "279,860"
+  },
+  "650": {
+    "% of US": "0.630",
+    "DMA Code": "650",
+    "Designated Market Area (DMA)": "Oklahoma City",
+    "Rank": "41",
+    "TV Homes": "722,140"
+  },
+  "651": {
+    "% of US": "0.140",
+    "DMA Code": "651",
+    "Designated Market Area (DMA)": "Lubbock",
+    "Rank": "145",
+    "TV Homes": "160,440"
+  },
+  "652": {
+    "% of US": "0.363",
+    "DMA Code": "652",
+    "Designated Market Area (DMA)": "Omaha",
+    "Rank": "74",
+    "TV Homes": "416,210"
+  },
+  "656": {
+    "% of US": "0.124",
+    "DMA Code": "656",
+    "Designated Market Area (DMA)": "Panama City",
+    "Rank": "154",
+    "TV Homes": "141,740"
+  },
+  "657": {
+    "% of US": "0.110",
+    "DMA Code": "657",
+    "Designated Market Area (DMA)": "Sherman-Ada",
+    "Rank": "162",
+    "TV Homes": "126,050"
+  },
+  "658": {
+    "% of US": "0.382",
+    "DMA Code": "658",
+    "Designated Market Area (DMA)": "Green Bay-Appleton",
+    "Rank": "68",
+    "TV Homes": "438,070"
+  },
+  "659": {
+    "% of US": "0.882",
+    "DMA Code": "659",
+    "Designated Market Area (DMA)": "Nashville",
+    "Rank": "29",
+    "TV Homes": "1,011,570"
+  },
+  "661": {
+    "% of US": "0.049",
+    "DMA Code": "661",
+    "Designated Market Area (DMA)": "San Angelo",
+    "Rank": "196",
+    "TV Homes": "56,680"
+  },
+  "662": {
+    "% of US": "0.099",
+    "DMA Code": "662",
+    "Designated Market Area (DMA)": "Abilene-Sweetwater",
+    "Rank": "165",
+    "TV Homes": "113,080"
+  },
+  "669": {
+    "% of US": "0.336",
+    "DMA Code": "669",
+    "Designated Market Area (DMA)": "Madison",
+    "Rank": "80",
+    "TV Homes": "384,830"
+  },
+  "670": {
+    "% of US": "0.266",
+    "DMA Code": "670",
+    "Designated Market Area (DMA)": "Ft. Smith-Fay-Sprngdl-Rgrs",
+    "Rank": "99",
+    "TV Homes": "304,670"
+  },
+  "671": {
+    "% of US": "0.463",
+    "DMA Code": "671",
+    "Designated Market Area (DMA)": "Tulsa",
+    "Rank": "58",
+    "TV Homes": "531,230"
+  },
+  "673": {
+    "% of US": "0.159",
+    "DMA Code": "673",
+    "Designated Market Area (DMA)": "Columbus-Tupelo-W Pnt-Hstn",
+    "Rank": "133",
+    "TV Homes": "181,860"
+  },
+  "675": {
+    "% of US": "0.206",
+    "DMA Code": "675",
+    "Designated Market Area (DMA)": "Peoria-Bloomington",
+    "Rank": "118",
+    "TV Homes": "235,690"
+  },
+  "676": {
+    "% of US": "0.143",
+    "DMA Code": "676",
+    "Designated Market Area (DMA)": "Duluth-Superior",
+    "Rank": "142",
+    "TV Homes": "164,380"
+  },
+  "678": {
+    "% of US": "0.383",
+    "DMA Code": "678",
+    "Designated Market Area (DMA)": "Wichita-Hutchinson Plus",
+    "Rank": "66",
+    "TV Homes": "439,760"
+  },
+  "679": {
+    "% of US": "0.378",
+    "DMA Code": "679",
+    "Designated Market Area (DMA)": "Des Moines-Ames",
+    "Rank": "69",
+    "TV Homes": "433,950"
+  },
+  "682": {
+    "% of US": "0.257",
+    "DMA Code": "682",
+    "Designated Market Area (DMA)": "Davenport-R.Island-Moline",
+    "Rank": "101",
+    "TV Homes": "294,680"
+  },
+  "686": {
+    "% of US": "0.461",
+    "DMA Code": "686",
+    "Designated Market Area (DMA)": "Mobile-Pensacola (Ft Walt)",
+    "Rank": "60",
+    "TV Homes": "528,320"
+  },
+  "687": {
+    "% of US": "0.146",
+    "DMA Code": "687",
+    "Designated Market Area (DMA)": "Minot-Bsmrck-Dcknsn(Wlstn)",
+    "Rank": "140",
+    "TV Homes": "167,010"
+  },
+  "691": {
+    "% of US": "0.336",
+    "DMA Code": "691",
+    "Designated Market Area (DMA)": "Huntsville-Decatur (Flor)",
+    "Rank": "79",
+    "TV Homes": "385,470"
+  },
+  "692": {
+    "% of US": "0.144",
+    "DMA Code": "692",
+    "Designated Market Area (DMA)": "Beaumont-Port Arthur",
+    "Rank": "141",
+    "TV Homes": "165,120"
+  },
+  "693": {
+    "% of US": "0.478",
+    "DMA Code": "693",
+    "Designated Market Area (DMA)": "Little Rock-Pine Bluff",
+    "Rank": "57",
+    "TV Homes": "547,950"
+  },
+  "698": {
+    "% of US": "0.201",
+    "DMA Code": "698",
+    "Designated Market Area (DMA)": "Montgomery-Selma",
+    "Rank": "123",
+    "TV Homes": "230,420"
+  },
+  "702": {
+    "% of US": "0.180",
+    "DMA Code": "702",
+    "Designated Market Area (DMA)": "La Crosse-Eau Claire",
+    "Rank": "129",
+    "TV Homes": "206,480"
+  },
+  "705": {
+    "% of US": "0.152",
+    "DMA Code": "705",
+    "Designated Market Area (DMA)": "Wausau-Rhinelander",
+    "Rank": "134",
+    "TV Homes": "174,760"
+  },
+  "709": {
+    "% of US": "0.232",
+    "DMA Code": "709",
+    "Designated Market Area (DMA)": "Tyler-Longview(Lfkn&Ncgd)",
+    "Rank": "108",
+    "TV Homes": "265,690"
+  },
+  "710": {
+    "% of US": "0.095",
+    "DMA Code": "710",
+    "Designated Market Area (DMA)": "Hattiesburg-Laurel",
+    "Rank": "168",
+    "TV Homes": "108,380"
+  },
+  "711": {
+    "% of US": "0.057",
+    "DMA Code": "711",
+    "Designated Market Area (DMA)": "Meridian",
+    "Rank": "190",
+    "TV Homes": "65,300"
+  },
+  "716": {
+    "% of US": "0.289",
+    "DMA Code": "716",
+    "Designated Market Area (DMA)": "Baton Rouge",
+    "Rank": "93",
+    "TV Homes": "330,910"
+  },
+  "717": {
+    "% of US": "0.087",
+    "DMA Code": "717",
+    "Designated Market Area (DMA)": "Quincy-Hannibal-Keokuk",
+    "Rank": "170",
+    "TV Homes": "99,340"
+  },
+  "718": {
+    "% of US": "0.281",
+    "DMA Code": "718",
+    "Designated Market Area (DMA)": "Jackson, MS",
+    "Rank": "95",
+    "TV Homes": "321,830"
+  },
+  "722": {
+    "% of US": "0.241",
+    "DMA Code": "722",
+    "Designated Market Area (DMA)": "Lincoln & Hastings-Krny",
+    "Rank": "105",
+    "TV Homes": "276,800"
+  },
+  "724": {
+    "% of US": "0.217",
+    "DMA Code": "724",
+    "Designated Market Area (DMA)": "Fargo-Valley City",
+    "Rank": "116",
+    "TV Homes": "249,010"
+  },
+  "725": {
+    "% of US": "0.229",
+    "DMA Code": "725",
+    "Designated Market Area (DMA)": "Sioux Falls(Mitchell)",
+    "Rank": "109",
+    "TV Homes": "263,000"
+  },
+  "734": {
+    "% of US": "0.070",
+    "DMA Code": "734",
+    "Designated Market Area (DMA)": "Jonesboro",
+    "Rank": "182",
+    "TV Homes": "79,860"
+  },
+  "736": {
+    "% of US": "0.070",
+    "DMA Code": "736",
+    "Designated Market Area (DMA)": "Bowling Green",
+    "Rank": "181",
+    "TV Homes": "80,230"
+  },
+  "737": {
+    "% of US": "0.045",
+    "DMA Code": "737",
+    "Designated Market Area (DMA)": "Mankato",
+    "Rank": "199",
+    "TV Homes": "51,820"
+  },
+  "740": {
+    "% of US": "0.013",
+    "DMA Code": "740",
+    "Designated Market Area (DMA)": "North Platte",
+    "Rank": "209",
+    "TV Homes": "14,370"
+  },
+  "743": {
+    "% of US": "0.134",
+    "DMA Code": "743",
+    "Designated Market Area (DMA)": "Anchorage",
+    "Rank": "147",
+    "TV Homes": "154,020"
+  },
+  "744": {
+    "% of US": "0.386",
+    "DMA Code": "744",
+    "Designated Market Area (DMA)": "Honolulu",
+    "Rank": "65",
+    "TV Homes": "442,820"
+  },
+  "745": {
+    "% of US": "0.031",
+    "DMA Code": "745",
+    "Designated Market Area (DMA)": "Fairbanks",
+    "Rank": "202",
+    "TV Homes": "36,070"
+  },
+  "746": {
+    "% of US": "0.113",
+    "DMA Code": "746",
+    "Designated Market Area (DMA)": "Biloxi-Gulfport",
+    "Rank": "157",
+    "TV Homes": "130,030"
+  },
+  "747": {
+    "% of US": "0.022",
+    "DMA Code": "747",
+    "Designated Market Area (DMA)": "Juneau",
+    "Rank": "207",
+    "TV Homes": "25,680"
+  },
+  "749": {
+    "% of US": "0.065",
+    "DMA Code": "749",
+    "Designated Market Area (DMA)": "Laredo",
+    "Rank": "184",
+    "TV Homes": "74,330"
+  },
+  "751": {
+    "% of US": "1.422",
+    "DMA Code": "751",
+    "Designated Market Area (DMA)": "Denver",
+    "Rank": "17",
+    "TV Homes": "1,630,380"
+  },
+  "752": {
+    "% of US": "0.309",
+    "DMA Code": "752",
+    "Designated Market Area (DMA)": "Colorado Springs-Pueblo",
+    "Rank": "88",
+    "TV Homes": "354,190"
+  },
+  "753": {
+    "% of US": "1.648",
+    "DMA Code": "753",
+    "Designated Market Area (DMA)": "Phoenix (Prescott)",
+    "Rank": "12",
+    "TV Homes": "1,890,100"
+  },
+  "754": {
+    "% of US": "0.061",
+    "DMA Code": "754",
+    "Designated Market Area (DMA)": "Butte-Bozeman",
+    "Rank": "185",
+    "TV Homes": "70,320"
+  },
+  "755": {
+    "% of US": "0.056",
+    "DMA Code": "755",
+    "Designated Market Area (DMA)": "Great Falls",
+    "Rank": "192",
+    "TV Homes": "63,720"
+  },
+  "756": {
+    "% of US": "0.096",
+    "DMA Code": "756",
+    "Designated Market Area (DMA)": "Billings",
+    "Rank": "166",
+    "TV Homes": "110,630"
+  },
+  "757": {
+    "% of US": "0.236",
+    "DMA Code": "757",
+    "Designated Market Area (DMA)": "Boise",
+    "Rank": "106",
+    "TV Homes": "270,200"
+  },
+  "758": {
+    "% of US": "0.107",
+    "DMA Code": "758",
+    "Designated Market Area (DMA)": "Idaho Fals-Pocatllo(Jcksn)",
+    "Rank": "163",
+    "TV Homes": "123,170"
+  },
+  "759": {
+    "% of US": "0.049",
+    "DMA Code": "759",
+    "Designated Market Area (DMA)": "Cheyenne-Scottsbluff",
+    "Rank": "198",
+    "TV Homes": "56,120"
+  },
+  "760": {
+    "% of US": "0.056",
+    "DMA Code": "760",
+    "Designated Market Area (DMA)": "Twin Falls",
+    "Rank": "191",
+    "TV Homes": "64,190"
+  },
+  "762": {
+    "% of US": "0.100",
+    "DMA Code": "762",
+    "Designated Market Area (DMA)": "Missoula",
+    "Rank": "164",
+    "TV Homes": "115,020"
+  },
+  "764": {
+    "% of US": "0.086",
+    "DMA Code": "764",
+    "Designated Market Area (DMA)": "Rapid City",
+    "Rank": "172",
+    "TV Homes": "99,170"
+  },
+  "765": {
+    "% of US": "0.291",
+    "DMA Code": "765",
+    "Designated Market Area (DMA)": "El Paso (Las Cruces)",
+    "Rank": "92",
+    "TV Homes": "333,270"
+  },
+  "766": {
+    "% of US": "0.025",
+    "DMA Code": "766",
+    "Designated Market Area (DMA)": "Helena",
+    "Rank": "205",
+    "TV Homes": "28,110"
+  },
+  "767": {
+    "% of US": "0.049",
+    "DMA Code": "767",
+    "Designated Market Area (DMA)": "Casper-Riverton",
+    "Rank": "197",
+    "TV Homes": "56,260"
+  },
+  "770": {
+    "% of US": "0.799",
+    "DMA Code": "770",
+    "Designated Market Area (DMA)": "Salt Lake City",
+    "Rank": "34",
+    "TV Homes": "916,960"
+  },
+  "771": {
+    "% of US": "0.096",
+    "DMA Code": "771",
+    "Designated Market Area (DMA)": "Yuma-El Centro",
+    "Rank": "167",
+    "TV Homes": "109,930"
+  },
+  "773": {
+    "% of US": "0.061",
+    "DMA Code": "773",
+    "Designated Market Area (DMA)": "Grand Junction-Montrose",
+    "Rank": "186",
+    "TV Homes": "69,820"
+  },
+  "789": {
+    "% of US": "0.371",
+    "DMA Code": "789",
+    "Designated Market Area (DMA)": "Tucson (Sierra Vista)",
+    "Rank": "71",
+    "TV Homes": "425,860"
+  },
+  "790": {
+    "% of US": "0.591",
+    "DMA Code": "790",
+    "Designated Market Area (DMA)": "Albuquerque-Santa Fe",
+    "Rank": "48",
+    "TV Homes": "677,590"
+  },
+  "798": {
+    "% of US": "0.004",
+    "DMA Code": "798",
+    "Designated Market Area (DMA)": "Glendive",
+    "Rank": "210",
+    "TV Homes": "4,370"
+  },
+  "800": {
+    "% of US": "0.195",
+    "DMA Code": "800",
+    "Designated Market Area (DMA)": "Bakersfield",
+    "Rank": "126",
+    "TV Homes": "223,250"
+  },
+  "801": {
+    "% of US": "0.209",
+    "DMA Code": "801",
+    "Designated Market Area (DMA)": "Eugene",
+    "Rank": "117",
+    "TV Homes": "239,710"
+  },
+  "802": {
+    "% of US": "0.051",
+    "DMA Code": "802",
+    "Designated Market Area (DMA)": "Eureka",
+    "Rank": "195",
+    "TV Homes": "58,640"
+  },
+  "803": {
+    "% of US": "4.775",
+    "DMA Code": "803",
+    "Designated Market Area (DMA)": "Los Angeles",
+    "Rank": "2",
+    "TV Homes": "5,476,830"
+  },
+  "804": {
+    "% of US": "0.138",
+    "DMA Code": "804",
+    "Designated Market Area (DMA)": "Palm Springs",
+    "Rank": "146",
+    "TV Homes": "158,010"
+  },
+  "807": {
+    "% of US": "2.169",
+    "DMA Code": "807",
+    "Designated Market Area (DMA)": "San Francisco-Oak-San Jose",
+    "Rank": "6",
+    "TV Homes": "2,488,090"
+  },
+  "810": {
+    "% of US": "0.201",
+    "DMA Code": "810",
+    "Designated Market Area (DMA)": "Yakima-Pasco-Rchlnd-Knnwck",
+    "Rank": "122",
+    "TV Homes": "230,950"
+  },
+  "811": {
+    "% of US": "0.227",
+    "DMA Code": "811",
+    "Designated Market Area (DMA)": "Reno",
+    "Rank": "112",
+    "TV Homes": "260,630"
+  },
+  "813": {
+    "% of US": "0.147",
+    "DMA Code": "813",
+    "Designated Market Area (DMA)": "Medford-Klamath Falls",
+    "Rank": "139",
+    "TV Homes": "168,710"
+  },
+  "819": {
+    "% of US": "1.577",
+    "DMA Code": "819",
+    "Designated Market Area (DMA)": "Seattle-Tacoma",
+    "Rank": "14",
+    "TV Homes": "1,808,530"
+  },
+  "820": {
+    "% of US": "0.997",
+    "DMA Code": "820",
+    "Designated Market Area (DMA)": "Portland, OR",
+    "Rank": "25",
+    "TV Homes": "1,143,670"
+  },
+  "821": {
+    "% of US": "0.059",
+    "DMA Code": "821",
+    "Designated Market Area (DMA)": "Bend, OR",
+    "Rank": "188",
+    "TV Homes": "67,430"
+  },
+  "825": {
+    "% of US": "0.929",
+    "DMA Code": "825",
+    "Designated Market Area (DMA)": "San Diego",
+    "Rank": "28",
+    "TV Homes": "1,065,700"
+  },
+  "828": {
+    "% of US": "0.198",
+    "DMA Code": "828",
+    "Designated Market Area (DMA)": "Monterey-Salinas",
+    "Rank": "125",
+    "TV Homes": "226,630"
+  },
+  "839": {
+    "% of US": "0.661",
+    "DMA Code": "839",
+    "Designated Market Area (DMA)": "Las Vegas",
+    "Rank": "40",
+    "TV Homes": "757,840"
+  },
+  "855": {
+    "% of US": "0.198",
+    "DMA Code": "855",
+    "Designated Market Area (DMA)": "SantaBarbra-SanMar-SanLuOb",
+    "Rank": "124",
+    "TV Homes": "226,940"
+  },
+  "862": {
+    "% of US": "1.203",
+    "DMA Code": "862",
+    "Designated Market Area (DMA)": "Sacramnto-Stkton-Modesto",
+    "Rank": "20",
+    "TV Homes": "1,379,770"
+  },
+  "866": {
+    "% of US": "0.500",
+    "DMA Code": "866",
+    "Designated Market Area (DMA)": "Fresno-Visalia",
+    "Rank": "54",
+    "TV Homes": "573,180"
+  },
+  "868": {
+    "% of US": "0.164",
+    "DMA Code": "868",
+    "Designated Market Area (DMA)": "Chico-Redding",
+    "Rank": "132",
+    "TV Homes": "188,010"
+  },
+  "881": {
+    "% of US": "0.368",
+    "DMA Code": "881",
+    "Designated Market Area (DMA)": "Spokane",
+    "Rank": "73",
+    "TV Homes": "422,550"
+  }
+}

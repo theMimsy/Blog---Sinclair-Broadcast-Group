@@ -1,5 +1,5 @@
 # File:        wikitable.py
-# Description: A parser specifically for extracting html tables from wikipedia.
+# Description: A parser specifically for extracting HTML tables from wikipedia
 # Author:      Dawid Minorczyk
 # Date:        July 19 2017
 
@@ -35,10 +35,10 @@ class WikiTableOptions(dict):
 
     # A class variable holding every option in WikiTable and their defaults
     _default_options = {
-        'url'      : None,  'tab_num'  : 0,
+        'url'      : None,  'tab_num'  : 0,     'tab_fil'  : None,
         'col_th'   : False, 'row_th'   : False,
         'col_ex'   : None,  'row_ex'   : None,
-        'col_ref'  : [],    'row_ref'  : [],    
+        'col_ref'  : [],    'row_ref'  : [],
         'regex_ex' : None,  'regex_pos': None,
         'on_link'  : None
     }
@@ -116,7 +116,10 @@ class WikiTable:
 
             # Extract
             soup = BeautifulSoup(page.content, 'lxml')
-            table_soup = soup.find_all('table')[options.tab_num]
+            if options.tab_fil is None:
+                table_soup = soup.find_all('table')[options.tab_num]
+            else:
+                table_soup = soup.find_all('table', options.tab_fil)[options.tab_num]
 
             # Turn over calculation to internal function
             return self._pandas_from_soup(table_soup, options)
@@ -409,7 +412,7 @@ class WikiTable:
 
                 # Add to links
                 linked_data = linked_data + self._handle_links(row_idx, col_idx, td_soup, options)
-            
+        
             yield to_yield + linked_data
 
     def _generate_extracted_body(self, body_generator, options):
