@@ -47,6 +47,7 @@ def main():
     # Use old CSV to patch missing data in new CSV
     csv_new_data = pd.read_csv(csv_new_path, dtype = object).sort_values(merge_on)
     csv_new_data.index = csv_old_data.index
+    csv_new_data.to_csv(csv_new_path, quoting = csv.QUOTE_ALL) # Override
 
     # Get new JSON from patched new CSV
     with open(json_new_path, 'w') as json_outfile:
